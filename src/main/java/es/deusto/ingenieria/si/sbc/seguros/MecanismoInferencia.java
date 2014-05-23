@@ -12,6 +12,7 @@ public class MecanismoInferencia {
 
 	public static void main(String[] args) {
 		try {
+			//Funciona todo bien
 			Vivienda vivienda1 = new Vivienda();
 			vivienda1.setDireccion("20 Ingram St. Forest Hills, NY (Queens)");
 			vivienda1.setPropietario("Peter Parker");
