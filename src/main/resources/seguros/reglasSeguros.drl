@@ -1,0 +1,14 @@
+package seguros
+
+import es.deusto.ingenieria.si.sbc.seguros.Poliza
+import es.deusto.ingenieria.si.sbc.seguros.Poliza.Nombre
+import es.deusto.ingenieria.si.sbc.seguros.Vivienda
+import es.deusto.ingenieria.si.sbc.seguros.Vivienda.Antiguedad
+import es.deusto.ingenieria.si.sbc.seguros.Vivienda.CalidadConstruccion
+import es.deusto.ingenieria.si.sbc.seguros.Vivienda.RangoPresupuesto
+import es.deusto.ingenieria.si.sbc.seguros.Vivienda.Tarea
+import es.deusto.ingenieria.si.sbc.seguros.Vivienda.Tipo
+
+
+
+
